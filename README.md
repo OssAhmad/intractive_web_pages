@@ -1,2 +1,2 @@
-# intractive_web_pages
-A place to share html files and more. 
+# Social Media Links
+Just a simple HTML file where I can store all my favorite social media links in one place. 
